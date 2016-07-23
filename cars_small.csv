@@ -1,0 +1,43 @@
+brand,model,price,kmpl,bhp,type
+Chevrolet,Beat,421,18.6,79,Hatchback
+Chevrolet,Sail,551,18.2,82,Sedan
+Chevrolet,Sail Hatchback,468,18.2,82,Hatchback
+Chevrolet,Spark,345,16.2,62,Hatchback
+Fiat,Linea Classic,612,14.9,89,Sedan
+Fiat,Linea,700,15.7,112,Sedan
+Fiat,Punto Evo,499,15.8,67,Hatchback
+Ford,Classic,506,14.1,100,Sedan
+Ford,Figo,414,15.3,70,Hatchback
+Honda,Amaze,519,18,87,Sedan
+Honda,Brio,421,19.4,87,Hatchback
+Hyundai,EON,302,21.1,55,Hatchback
+Hyundai,i10,418,19.8,68,Hatchback
+Hyundai,i20,523,18.6,82,Hatchback
+Hyundai,Verna,774,17.4,106,Sedan
+Hyundai,Xcent,496,19.1,82,Sedan
+Suzuki,Alto,315,24.1,67,Hatchback
+Suzuki,Alto 800,248,22.7,47,Hatchback
+Suzuki,Celerio,392,23.1,67,Hatchback
+Suzuki,Ciaz,725,20.7,91,Sedan
+Suzuki,Estilo,338,19,67,Hatchback
+Suzuki,Ritz,442,18.5,86,Hatchback
+Suzuki,Swift,462,20.4,83,Hatchback
+Suzuki,Swift DZire,508,19.1,86,Sedan
+Suzuki,SX4,715,16.5,103,Sedan
+Suzuki,Wagon-R,363,20.5,67,Hatchback
+Nissan,Datsun GO,312,20.6,67,Hatchback
+Nissan,Micra,413,19.5,67,Hatchback
+Nissan,Sunny,699,16.9,98,Sedan
+Renault,Pulse,446,18,74,Hatchback
+Renault,Scala,724,16.9,98,Sedan
+San,Storm,595,16,59,Sedan
+Skoda,Fabia,503,16.4,75,Hatchback
+Skoda,Rapid,756,15,104,Sedan
+Tata,Indigo,499,14,65,Sedan
+Tata,Nano,199,23.9,38,Hatchback
+Tata,Zest,481,17.6,89,Sedan
+Toyota,Etios,603,16.8,89,Sedan
+Toyota,Etios Liva,500,17.7,79,Hatchback
+Volkswagen,Polo,535,16.5,74,Hatchback
+Volkswagen,Up,360,21,74,Hatchback
+Volkswagen,Vento,785,16.1,104,Sedan
