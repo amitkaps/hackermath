@@ -1,16 +1,20 @@
-# Hackermath
+# HackerMath
 ### Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way
 
-This is the repo for the full day workshop to be conducted in Fifth Elephant 2016
+This is the repository for the full day workshop to be conducted at Fifth Elephant 2016 (https://fifthelephant.in/2016/)
 
-**Module 1:** Basics of Statistics (Application: A/B Testing)  
-**Module 2:** Basics of Linear Algebra (Application: Supervised Machine Learning: Linear Regression)  
-**Module 3:** Basics of Linear Algebra -continued (Application: Unsupervised Machine Learning: Dimensionality Reduction)  
+The following topics are covered at the workshop:
+
+**Module 1:** Basics of Statistics (*Application: A/B Testing*)  
+**Module 2:** Basics of Linear Algebra (*Application: Supervised Machine Learning: Linear Regression*)  
+**Module 3:** Basics of Linear Algebra -continued (*Application: Unsupervised Machine Learning: Dimensionality Reduction*)  
  
-#### Software Requirements for the Workshop:
-We will be using Python data stack for the workshop. Please install Ananconda for Python 3.5 for the workshop. That has everything we need for the workshop. 
+### Installation Instructions
 
-For attendees more curious, we will be using Jupyter Notebook as our IDE. We will be introducing numpy, scipy, seaborn, matplotlib, statsmodel and scikit-learn. 
+We would be using Python data stack for the workshop. 
 
-No knowledge of Python is assumed. 
+Please refer to the [installation](installation.md) instructions document. That document also has instructions on how to run a script to check if the required packages are installed. 
 
+**Basics of Python**
+
+Attendees are advised to learn basics of Python before attending the workshop. At the bare minimum, attendees should be knowing Sections 1 through 5.1 in this book: http://anandology.com/python-practice-book/
