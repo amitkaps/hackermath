@@ -3,14 +3,15 @@
 
 This is the repo for the full day workshop to be conducted in Fifth Elephant 2016
 
-**Module 1:** Basics of Statistics (Application: A/B Testing)  
-**Module 2:** Basics of Linear Algebra (Application: Supervised Machine Learning: Linear Regression)  
-**Module 3:** Basics of Linear Algebra -continued (Application: Unsupervised Machine Learning: Dimensionality Reduction)  
+**Module 1:** Basics of Statistics (*Application: A/B Testing*)  
+**Module 2:** Basics of Linear Algebra (*Application: Supervised Machine Learning: Linear Regression*)  
+**Module 3:** Basics of Linear Algebra -continued (*Application: Unsupervised Machine Learning: Dimensionality Reduction*)  
  
 #### Software Requirements for the Workshop:
 We will be using Python data stack for the workshop. Please install Ananconda for Python 3.5 for the workshop. That has everything we need for the workshop. 
 
-For attendees more curious, we will be using Jupyter Notebook as our IDE. We will be introducing numpy, scipy, seaborn, matplotlib, statsmodel and scikit-learn. 
+For attendees more curious, we will be using Jupyter Notebook as our IDE. We will be introducing `numpy`, `scipy`, `seaborn`, `matplotlib`, `statsmodel` and `scikit-learn`. 
 
-No knowledge of Python is assumed. 
+**Basics of Python**
 
+Attendees are advised to learn basics of Python before attending the workshop. At the bare minimum, attendees should be knowing Sections 1 through 5.1 in this book: http://anandology.com/python-practice-book/
