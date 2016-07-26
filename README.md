@@ -1,4 +1,4 @@
-# Hackermath
+# HackerMath
 ### Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way
 
 This is the repository for the full day workshop to be conducted at Fifth Elephant 2016 (https://fifthelephant.in/2016/)
