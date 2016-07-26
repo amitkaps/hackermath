@@ -9,10 +9,11 @@ The following topics are covered at the workshop:
 **Module 2:** Basics of Linear Algebra (*Application: Supervised Machine Learning: Linear Regression*)  
 **Module 3:** Basics of Linear Algebra -continued (*Application: Unsupervised Machine Learning: Dimensionality Reduction*)  
  
-#### Software Requirements for the Workshop:
-We will be using Python data stack for the workshop. Please install Ananconda 3.5 for the workshop. That has all the packages we require for the workshop. 
+### Installation Instructions
 
-For attendees more curious, we will be using Jupyter Notebook as our IDE. We will be introducing `numpy`, `scipy`, `seaborn`, `matplotlib`, `statsmodel` and `scikit-learn`. 
+We would be using Python data stack for the workshop. 
+
+Please refer to the [installation](installation.md) instructions document. That document also has instructions on how to run a script to check if the required packages are installed. 
 
 **Basics of Python**
 
