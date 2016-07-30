@@ -22,19 +22,27 @@
 
 ---
 
-# **Module 1: Basics of Statistics** 
-## Application: A/B Testing
+# **Module 1: Statistics** 
+### *Application to A/B Testing*
+### Base Metrics 
+### Direct Simulation
+### Shuffling
+### Hypothesis Testing
 
 ---
 
-# **Module 2: Basics of Linear Algebra**
-## *Application*: Supervised ML: Linear Regression
+# **Module 2: Linear Algebra**
+### *Application*: Supervised ML: Linear Regression
+### Solve $$Ax = b$$ for $$ n \times n$$
+### Solve $$Ax = b$$ for $$ n \times p + 1$$
+### Linear Regression*
+### L2 Regularization
+### Bootstrapping
 
 ---
 
-# **Module 3: Basics of Linear Algebra - continued**
-## *Application*: Unsupervised ML: Dimensionality Reduction
-
----
-
-# **Lets get Started**
+# **Module 3: Linear Algebra - continued**
+### *Application*: Unsupervised ML: Dimensionality Reduction
+### Solve $$Ax = \lambda x$$ for $$ n \times n$$
+### Eigenvectors & Eigenvalues
+### Principle Component Analysis
