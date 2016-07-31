@@ -22,7 +22,9 @@ Attendees are advised to learn basics of Python before attending the workshop. A
 ---
 
 **Authors:**
+
 [Amit Kapoor](https://twitter.com/amitkaps/)
+
 [Bargava Subramanian](https://twitter.com/bargava/)
 
 
