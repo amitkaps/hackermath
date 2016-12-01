@@ -1,19 +1,18 @@
-# HackerMath
-### Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way
+# HackerMath for ML
 
-This is the repository for the full day workshop to be conducted at Fifth Elephant 2016 (https://fifthelephant.in/2016/)
+More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath).
 
 The following topics are covered at the workshop:
 
 **Module 1:** Basics of Statistics (*Application: A/B Testing*)  
 **Module 2:** Basics of Linear Algebra (*Application: Supervised Machine Learning: Linear Regression*)  
 **Module 3:** Basics of Linear Algebra -continued (*Application: Unsupervised Machine Learning: Dimensionality Reduction*)  
- 
+
 ### Installation Instructions
 
-We would be using Python data stack for the workshop. 
+We would be using Python data stack for the workshop.
 
-Please refer to the [installation](installation.md) instructions document. That document also has instructions on how to run a script to check if the required packages are installed. 
+Please refer to the [installation](installation.md) instructions document. That document also has instructions on how to run a script to check if the required packages are installed.
 
 **Basics of Python**
 
