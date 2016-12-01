@@ -1,6 +1,7 @@
 # HackerMath for ML
 
 More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath).
+=======
 
 The following topics are covered at the workshop:
 
@@ -17,3 +18,11 @@ Please refer to the [installation](installation.md) instructions document. That 
 **Basics of Python**
 
 Attendees are advised to learn basics of Python before attending the workshop. At the bare minimum, attendees should be knowing Sections 1 through 5.1 in this book: http://anandology.com/python-practice-book/
+
+---
+
+**Authors:**
+
+[Amit Kapoor](https://twitter.com/amitkaps/)
+
+[Bargava Subramanian](https://twitter.com/bargava/)
