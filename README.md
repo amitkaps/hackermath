@@ -1,6 +1,6 @@
-# HackerMath for ML
+# HackerMath for Machine Learning
 
-More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath).
+### More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath).
 =======
 
 The following topics are covered at the workshop:
