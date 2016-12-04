@@ -347,3 +347,47 @@ Example: Survivor on Titanic
 - Omitted Variable Bias
 - Black-box model Vs White-Box model
 - Adherence to regulations
+
+---
+
+# Day 1 Coverage
+**Module 1: Linear Algebra**
+**Supervised ML - Regression, Classification**
+- Solve $$Ax = b$$ for $$ n \times n$$
+- Solve $$Ax = b$$ for $$ n \times p + 1$$
+- Linear Regression
+- Bootstrapping
+- Regularization - L1, L2
+- Gradient Descent
+
+---
+
+# Day 1: Reflections
+- Steep learning curve
+- Different audience level
+- Balance speed and coverage
+- Be considerate
+
+---
+
+# Day 2 Agenda - First Half
+
+**Module 1: Linear Algebra**
+**Supervised ML - Classification**
+- Logistic Regression
+
+**Module 2: Statistics**
+**Hypothesis Testing: A/B Testing**
+- Basic Statistics, Distributions
+- Bootstrapping & Simulation
+- A/B Testing
+
+---
+
+# Day 2 Agenda - Second Half
+**Module 3: Linear Algebra contd.**
+**Unsupervised ML: Dimensionality Reduction**
+- Solve $$Ax = \lambda x$$ for $$ n \times n$$
+- Eigenvectors & Eigenvalues
+- Principle Component Analysis
+- Cluster Analysis (K-Means)
