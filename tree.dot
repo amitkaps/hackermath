@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<Income &le; 15000.0<br/>gini = 0.642<br/>samples = 18<br/>value = [4, 6, 8]<br/>class = High>, fillcolor="#8139e52a"] ;
+1 [label=<gini = 0.0<br/>samples = 6<br/>value = [0, 0, 6]<br/>class = High>, fillcolor="#8139e5ff"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<Income &le; 35000.0<br/>gini = 0.6111<br/>samples = 12<br/>value = [4, 6, 2]<br/>class = Moderate>, fillcolor="#39e58140"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label=<Credit History &le; -0.5<br/>gini = 0.4444<br/>samples = 6<br/>value = [0, 4, 2]<br/>class = Moderate>, fillcolor="#39e5817f"] ;
+2 -> 3 ;
+4 [label=<gini = 0.0<br/>samples = 2<br/>value = [0, 0, 2]<br/>class = High>, fillcolor="#8139e5ff"] ;
+3 -> 4 ;
+5 [label=<gini = 0.0<br/>samples = 4<br/>value = [0, 4, 0]<br/>class = Moderate>, fillcolor="#39e581ff"] ;
+3 -> 5 ;
+6 [label=<Credit History &le; -0.5<br/>gini = 0.4444<br/>samples = 6<br/>value = [4, 2, 0]<br/>class = Low>, fillcolor="#e581397f"] ;
+2 -> 6 ;
+7 [label=<gini = 0.0<br/>samples = 2<br/>value = [0, 2, 0]<br/>class = Moderate>, fillcolor="#39e581ff"] ;
+6 -> 7 ;
+8 [label=<gini = 0.0<br/>samples = 4<br/>value = [4, 0, 0]<br/>class = Low>, fillcolor="#e58139ff"] ;
+6 -> 8 ;
+}

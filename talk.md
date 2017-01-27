@@ -2,14 +2,11 @@ theme: Letters from Sweden, 4
 
 # [fit] **HackerMath for ML**
 
-Intro to Stats & Maths for Machine Learning
+Intro to Maths for Machine Learning
 
 <br>
 *Amit Kapoor*
 @amitkaps
-<br>
-*Bargava Subramanian*
-@bargava
 
 ---
 
@@ -71,18 +68,6 @@ Here we will aim to learn Math essential for Data Science in this hacker way.
 - Eigenvectors & Eigenvalues
 - Principle Component Analysis
 - Cluster Analysis (K-Means)
-
----
-
-# Schedule
-0900 - 1000: Breakfast
-1000 - 1130: Session 1
-1130 - 1145: Tea Break
-1145 - 1315: Session 2
-1315 - 1400: Lunch
-1400 - 1530: Session 3
-1530 - 1545: Tea Break
-1545 - 1700: Session 4
 
 ---
 
@@ -164,7 +149,7 @@ Here we will aim to learn Math essential for Data Science in this hacker way.
 
 - *Frame*: Problem definition
 - *Acquire*: Data ingestion 
-- *Refine*: Data wrangline
+- *Refine*: Data wrangling
 - *Transform*: Feature creation 
 - *Explore*: Feature selection 
 - *Model*: Model creation & assessment
