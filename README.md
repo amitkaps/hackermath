@@ -3,15 +3,14 @@
 > “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― Richard Feynman
 
-Math literacy, including proficiency in Linear Algebra and Statistics, is a must for anyone pursuing a career in data science. The goal of this workshop is to introduce some key concepts from these domains that get used repeatedly in data science applications. Our approach is what we call the “Hacker’s way”. Instead of going back to formulae and proofs, we teach the concepts by writing code. And in practical applications. Concepts don’t remain sticky if the usage is never taught.
+Math literacy, including proficiency in Linear Algebra and Statistics,is a must for anyone pursuing a career in data science. The goal of this workshop is to introduce some key concepts from these domains that get used repeatedly in data science applications. Our approach is what we call the “Hacker’s way”. Instead of going back to formulae and proofs, we teach the concepts by writing code. And in practical applications. Concepts don’t remain sticky if the usage is never taught.
 
 The focus will be on depth rather than breadth. Three areas are chosen - Hypothesis Testing, Supervised Learning and Unsupervised Learning. They will be covered to sufficient depth - 50% of the time will be on the concepts and 50% of the time will be spent coding them.
 
-**More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath)**
 
-<div class="video-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/UqwsRzFmu3c" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+<a href="https://www.youtube.com/watch?v=UqwsRzFmu3c"><img src="img/hackermath_video.png"></a>
+
+*More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath)*
 
 ## Module #1: Hypothesis Testing
 
@@ -62,14 +61,6 @@ The focus will be on depth rather than breadth. Three areas are chosen - Hypothe
 - Dimensionality Reduction
 - Principle Component Analysis
 - Cluster Analysis
-
-=======
-
-The following topics are covered at the workshop:
-
-**Module 1:** Basics of Statistics (*Application: A/B Testing*)  
-**Module 2:** Basics of Linear Algebra (*Application: Supervised Machine Learning: Linear Regression*)  
-**Module 3:** Basics of Linear Algebra -continued (*Application: Unsupervised Machine Learning: Dimensionality Reduction*)  
 
 ## Target Audience
 
