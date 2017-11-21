@@ -12,7 +12,7 @@ The focus will be on depth rather than breadth. Three areas are chosen - Hypothe
 
 *More details at [http://amitkaps.com/hackermath](http://amitkaps.com/hackermath)*
 
-See it in action: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/https://hub.mybinder.org/user/amitkaps-hackermath-wo6ym634/tree/master)
+See it in action: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amitkaps/hackermath/master)
 
 
 ## Module #1: Hypothesis Testing
